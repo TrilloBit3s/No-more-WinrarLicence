@@ -1,4 +1,4 @@
-# No-more-WinrarLicence
+# No-more-Winr4rLicence
 
 //RETIRAR MENSAGEM DE COMPRA DE LICENÇA DO WINRAR.<br>
 //Salvar como rarreg.key na pasta raiz de instalaçãi do WINRAR.<br>
